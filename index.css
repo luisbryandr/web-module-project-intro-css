@@ -1,0 +1,51 @@
+.plan{
+    background-color: #FF764E;
+}
+
+.learn {
+    background-color: #5ED3EB;
+}
+
+.involved{
+    background-color:#FFCD69;
+}
+
+.banner{
+    background-color: #DDB9A3;
+}
+
+footer{
+    background-color: #F9E7DC;
+}
+*{
+    font-family:  'Roboto Mono', monospace;
+}
+
+h1{
+    font-family: 'Chelsea Market';
+}
+
+img {
+    height: 10rem;
+}
+
+header img {
+    border-radius: 20rem;
+}
+
+ header div, header img {
+    display: inline;
+}
+
+
+
+a{
+    display: inline-block;
+}
+
+.graphics {
+    text-align: center;
+    margin: 0 auto;
+    padding: 30%;
+    text-size: small;
+}
