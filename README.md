@@ -9,6 +9,7 @@
 - implement a CSS reset and understand why it’s important for cross-browser development
 - describe and use responsive units (px, em, rem, %, and vw.vh) to create a fully responsive website
 
+
 ## Introduction
 
 In this project you will be styling a single page with more advanced CSS. This page is a take on the government's [national parks website](https://www.nps.gov/yose/index.htm) and includes some basic information about Yosemite National Park in California.
@@ -21,12 +22,12 @@ The styles in your [design file](/design/desktop.jpg) include bright colors and 
 
 Follow these steps to set up and work on your project:
 
-- [ ] Fork the repository, then clone from your fork.
+- [X] Fork the repository, then clone from your fork.
 - [ ] Go into Canvas and connect your repository by copy-pasting its Github URL into the submission slot.
-- [ ] DO NOT CREATE A BRANCH. You will be pushing your changes to the main/master today.
-- [ ] cd into your repository on the command line and use code . to open VS Code.
-- [ ] Download the Live Server extension from the Extensions tab on the left side of your VS Code. After it is done installing, click "Go Live" on the bottom right side of your screen to run your HTML file.
-- [ ] Complete your work making regular commits to the main branch; your submitted URL will always reflect your most recent work.
+- [X] DO NOT CREATE A BRANCH. You will be pushing your changes to the main/master today.
+- [X] cd into your repository on the command line and use code . to open VS Code.
+- [X] Download the Live Server extension from the Extensions tab on the left side of your VS Code. After it is done installing, click "Go Live" on the bottom right side of your screen to run your HTML file.
+- [X] Complete your work making regular commits to the main branch; your submitted URL will always reflect your most recent work.
 
 ### Task 2: Minimum Viable Product
 
