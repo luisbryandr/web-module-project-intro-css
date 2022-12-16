@@ -12,8 +12,35 @@
 
 .main{
     background-color: #DDB9A3;
+    color: white
 }
 
 footer {
     background-color: #F9E7DC;
+}
+
+h1 {
+    font-family: 'Chelsea Market';
+}
+
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+img {
+    height: 10rem;
+}
+
+header img {
+    border-radius: 20rem;
+}
+
+header img, header div {
+    display: inline;
+}
+nav a{
+    display: inline-block;
+}
+footer img{
+    max-width: none;
 }
